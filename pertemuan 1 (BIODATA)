@@ -1,0 +1,104 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyN+xsG7Y7VLusU8VUOeVmOe",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ubaidullohfathurrosyid-lang/pmograman-dasar/blob/main/pertemuan%201%20(BIODATA)\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "n_2wK4YuZ2oZ"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Biodata saya\n",
+        "\n",
+        "nama = \"ubaidulloh fathurrosyid\"\n",
+        "umur = \"22\"\n",
+        "jurusan = \"RPE\"\n",
+        "semester = \"3\"\n",
+        "matakuliah = \"pemograman dasar\"\n",
+        "status_lukus = False\n",
+        "\n",
+        "print (nama)\n",
+        "print (umur)\n",
+        "print (jurusan)\n",
+        "print (semester)\n",
+        "print (matakuliah)\n",
+        "print (status_lulus)"
+      ],
+      "metadata": {
+        "id": "I1WjU2doEKtj",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 274
+        },
+        "outputId": "2acc9f4d-82f7-4527-998c-96a6080f64b8"
+      },
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "ubaidulloh fathurrosyid\n",
+            "22\n",
+            "RPE\n",
+            "3\n",
+            "pemograman dasar\n"
+          ]
+        },
+        {
+          "output_type": "error",
+          "ename": "NameError",
+          "evalue": "name 'status_lulus' is not defined",
+          "traceback": [
+            "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+            "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+            "\u001b[0;32m/tmp/ipython-input-2595412918.py\u001b[0m in \u001b[0;36m<cell line: 0>\u001b[0;34m()\u001b[0m\n\u001b[1;32m     13\u001b[0m \u001b[0mprint\u001b[0m \u001b[0;34m(\u001b[0m\u001b[0msemester\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     14\u001b[0m \u001b[0mprint\u001b[0m \u001b[0;34m(\u001b[0m\u001b[0mmatakuliah\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 15\u001b[0;31m \u001b[0mprint\u001b[0m \u001b[0;34m(\u001b[0m\u001b[0mstatus_lulus\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+            "\u001b[0;31mNameError\u001b[0m: name 'status_lulus' is not defined"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "6hwt59XqZa4q"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "Ejc0U-9XZkPQ"
+      }
+    }
+  ]
+}
